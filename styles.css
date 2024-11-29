@@ -23,14 +23,14 @@ body {
 
 .my-5{
     font-family: oleo script swash caps; 
-    font-size: 25px;
+    font-size: 25px;     
     width: 100%; /* Ensure it spans the full width */
  }
  
  .my-5 p{
 font-family: mountains of Christmas;
     text-align: center;
-font-size: 100px;
+font-size: 28px;
 
  }
 
@@ -49,39 +49,74 @@ section {
     margin-bottom: 2rem;
 }
 
-.paragraphs{
+.paragraphs {
     background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 1rem;
     border-color: #799351;
-    margin:auto;
+    margin: auto;
     margin-top: 50px;
     border-width: 2px;
-    width: 850px;
-    
+    width: 100%;
+    max-width: 850px; /* Ensure it doesn't exceed this width */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
-h1{
-    font-family: oleo script swash caps ;
-    color: darkgreen;;
+h1 {
+    font-family: "Oleo Script Swash Caps", system-ui;
+    color: darkgreen;
     font-size: 65px;
+    text-align: center;
+    margin: 20px 0;
 }
 
 h2 {
     font-size: 40px;
     margin: 0;
-    font-family: oleo script swash caps;
+    font-family: "Oleo Script Swash Caps", system-ui;
     text-align: center;
     color: #EE4E4E;
     margin: 20px;
 }
 
 p {
-    max-width: 900px;
+    max-width: 100%;
     margin: 0 auto;
     line-height: 1.6;
     text-align: justify;
+    padding: 0 10px; /* Add padding for better readability on smaller screens */
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 50px; /* Adjust font size for smaller screens */
+    }
+
+    h2 {
+        font-size: 30px; /* Adjust font size for smaller screens */
+    }
+
+    .paragraphs {
+        padding: 0.5rem; /* Reduce padding for smaller screens */
+        margin-top: 20px; /* Adjust margin for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 40px; /* Further adjust font size for very small screens */
+    }
+
+    h2 {
+        font-size: 25px; /* Further adjust font size for very small screens */
+    }
+
+    .paragraphs {
+        padding: 0.5rem; /* Maintain reduced padding for very small screens */
+        margin-top: 10px; /* Further adjust margin for very small screens */
+    }
 }
 
 .random-movie {
@@ -110,6 +145,15 @@ p {
     text-decoration: underline;
 }
 
+.category {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1rem;
+    border-color: #799351;
+    border-width: 2px;
+    
+}
 
 .category-container{
     display: grid;
@@ -118,7 +162,7 @@ p {
     padding: 20px;
     max-width: 1200px; /* Adjust this value as needed */
     margin: 0 auto; /* Center the container */
-    justify-content: center; /* Center horizontally */
+    justify-content: left; /* Center horizontally */
     border-width: 2px;
 }
 
@@ -144,15 +188,39 @@ ol {
     padding-left: 0;
   }
 
-.category {
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 1rem;
-    border-color: #799351;
-    border-width: 2px;
-    max-width: 300px;
+
+
+@media (max-width: 768px) {
+    .category{
+        grid-template-columns: 1fr 1fr; /* Two columns for medium screens */
+    }
 }
+
+@media (max-width: 480px) {
+    .category{
+        grid-template-columns: 1fr; /* One column for small screens */
+    }
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 1200px) {
+    .category-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .category-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .category-container {
+        grid-template-columns: 1fr;
+    }
+}
+
 
 .category h3 {
     margin-top: 0;
