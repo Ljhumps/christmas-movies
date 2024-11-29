@@ -167,11 +167,11 @@ p {
 }
 
 .item1 {
-    grid-column: 1 / 2; /* Place in the 2nd column */
+    grid-column: 2 / 3; /* Place in the 2nd column */
 }
 
 .item2 {
-    grid-column: 2 / 3; /* Place in the 3rd column */
+    grid-column: 3 / 4; /* Place in the 3rd column */
 }
 
 .category-container-a{
