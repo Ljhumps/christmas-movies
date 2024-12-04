@@ -286,7 +286,6 @@ ol {
     text-align: center;
     padding: 10px;
     width: 100%;
-    position: fixed; /* Sticks the footer to the bottom */
     bottom: 0;
     left: 0;
 }
