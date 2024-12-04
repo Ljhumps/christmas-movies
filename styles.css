@@ -131,6 +131,7 @@ p {
     padding: 1rem;
     border-color: #799351;
     border-width: 2px;
+     max-width: 850px; /* Ensure it doesn't exceed this width */
 }
 
 .random-movie a {
