@@ -279,39 +279,25 @@ ol {
     font-weight: bold;
 }
 
-#rate-movies {
+.footer {
+    background-color: rgba(248, 250, 229, 0.9); /* Semi-transparent background */
+    color: darkgreen;
     text-align: center;
-    margin-top: 2rem;
+    padding: 10px;
+    width: 100%;
+    position: fixed; /* Sticks the footer to the bottom */
+    bottom: 0;
+    left: 0;
 }
 
-#ratingForm {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.footer p {
+    margin: 0;
+    font-family: "Oleo Script Swash Caps", system-ui;
 }
 
-#ratingForm label {
-    margin-top: 1rem;
-}
-
-#ratingForm input {
-    margin-top: 0.5rem;
-    padding: 0.5rem;
-    width: 200px;
-}
-
-#ratingForm button {
-    margin-top: 1rem;
-    background-color: darkgreen;
-    color: white;
-    border: none;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-#ratingForm button:hover {
-    background-color: #ff4500;
-}
-
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .footer {
+        padding: 5px;
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
