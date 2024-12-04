@@ -24,7 +24,7 @@ body {
 .my-5{
     font-family: oleo script swash caps; 
     font-size: 25px;     
-    
+    width: 100%; /* Ensure it spans the full width */
  }
  
  .my-5 p{
@@ -157,13 +157,13 @@ p {
 
 .category-container{
     display: grid;
-    grid-template-columns: 1fr; /* One column */
-    grid-template-rows: repeat(2, auto); /* Two rows */
-    gap: 20px; /* Space between rows */
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
     padding: 20px;
     max-width: 1200px; /* Adjust this value as needed */
     margin: 0 auto; /* Center the container */
-}
+    justify-content: left; /* Center horizontally */
+    border-width: 2px;
 }
 
 .item1 {
