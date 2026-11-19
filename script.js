@@ -364,7 +364,7 @@
     {
         title: "Escape to Victory (1981),",
         title1: "IMDB rating: 6.7",
-        title2: "Michael Caine, Pelé and Sylvester Stallone play football against the Nazis. Not remotely festive, but somehow essential Christmas television. Spoiler alert: Pelé scores a bicycle kick!",
+        title2: "Stallone playing in goal against the Nazis! Not remotely festive, but somehow essential Christmas television. Spoiler alert: Pelé scores a bicycle kick!",
         url: "https://www.imdb.com/title/tt0083284/"
     },
     {
@@ -382,7 +382,7 @@
     {
         title: "Indiana Jones and the Last Crusade (1989),",
         title1: "IMDB rating: 8.2",
-        title2: "Indiana Jones, Sean Connery, Nazis and the Holy Grail. Absolutely no Christmas whatsoever. You have chosen... wisely.",
+        title2: "Absolutely no Christmas whatsoever. You have chosen... wisely.",
         url: "https://www.imdb.com/title/tt0097576/"
     }
 
