@@ -387,7 +387,6 @@
     }
 
 ];
-                ];
             
                 const randomMovieButton = document.getElementById('randomMovieButton');
                 const randomMovieDisplay = document.getElementById('randomMovieDisplay');
