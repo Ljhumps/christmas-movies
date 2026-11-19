@@ -293,8 +293,11 @@ ol {
 @media (max-width: 768px) {
     .footer {
         padding: 5px;
-        font-size: 14px; /* Adjust font size for smaller screens */
+        font-size: 14px;
     }
+}
+
+/* Santa image */
 .welcome-box {
     position: relative;
     padding-right: 220px;
