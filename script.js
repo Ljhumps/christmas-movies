@@ -56,7 +56,7 @@
     {
         title: "Guarding Stars (2026),",
         title1: "IMDB rating: 6.3 this will get lower!",
-        title2: "A Christmas romance involving a bodyguard and an action star. I think we can all guess where this is going!",
+        title2: "A bodyguard meets a movie star at Christmas.",
         url: "https://www.imdb.com/title/tt6611324/"
     },
     {
