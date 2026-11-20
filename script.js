@@ -62,7 +62,7 @@
     {
         title: "Violent Night 2 (2026),",
         title1: "IMDB rating: Not rated yet! ",
-        title2: "Santa is back and apparently still solving Christmas problems using extreme violence!",
+        title2: "Santa is back and still solving Christmas problems using extreme violence!",
         url: "https://www.imdb.com/title/tt27685647/"
     },
 
@@ -82,7 +82,7 @@
     {
         title: "Scrooged (1988),",
         title1: "IMDB rating: 6.9,",
-        title2: "Classic! A moody, sarcastic Bill Murray!",
+        title2: "A moody, sarcastic Bill Murray!",
         url: "https://www.imdb.com/title/tt0096061/"
     },
     {
@@ -120,7 +120,7 @@
     {
         title: "The Santa Clause (1994),",
         title1: "IMDB rating: 6.6,",
-        title2: "Underrated Christmas film!",
+        title2: "Neglectful dad kills Santa and discovers being Santa is actually a curse. Underrated Christmas film!",
         url: "https://www.imdb.com/title/tt0111070/"
     },
     {
@@ -152,7 +152,7 @@
     {
         title: "The Muppet Christmas Carol (1992),",
         title1: "IMDB rating: 7.8,",
-        title2: "The best version of the Christmas Carol!",
+        title2: "The best version of The Christmas Carol!",
         url: "https://www.imdb.com/title/tt0104940/"
     },
     {
