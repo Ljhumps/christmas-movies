@@ -394,7 +394,9 @@
                 randomMovieButton.addEventListener('click', () => {
                     const randomIndex = Math.floor(Math.random() * movies.length);
                     const randomMovie = movies[randomIndex];
-                    randomMovieDisplay.innerHTML = `I recommend you watch: ${randomMovie.title} <a href="${randomMovie.url}" target="_blank"> ${randomMovie.title1} </a> ${randomMovie.title2} `;
+                    randomMovieDisplay.innerHTML = `I recommend you watch: ${randomMovie.title}
+                        <br><a href="${randomMovie.url}" target="_blank">${randomMovie.title1}</a>
+                            <br>${randomMovie.title2} `;
                     randomMovieDisplay.classList.add('random-movie');
                 });
             });
