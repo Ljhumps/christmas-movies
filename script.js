@@ -88,13 +88,13 @@
     {
         title: "White Christmas (1954),",
         title1: "IMDB rating: 7.6,",
-        title2: "Classic. Have a dance with Bing Crosby!",
+        title2: "Have a dance with Bing Crosby!",
         url: "https://www.imdb.com/title/tt0047673/"
     },
     {
         title: "The Snowman (1982),",
         title1: "IMDB rating: 8.2,",
-        title2: "A boy is kidnapped by a snowman. A Classic!",
+        title2: "A boy is kidnapped by a snowman!",
         url: "https://www.imdb.com/title/tt0084701/"
     },
 
@@ -102,13 +102,13 @@
     {
         title: "Bad Santa (2003),",
         title1: "IMDB rating: 7.0,",
-        title2: "A drunken, foul mouthed Christmas classic!",
+        title2: "A drunken, foul-mouthed Christmas classic!",
         url: "https://www.imdb.com/title/tt0307987/"
     },
     {
         title: "National Lampoon's Christmas Vacation (1989),",
         title1: "IMDB rating: 7.5,",
-        title2: "Comedy. Spend some time with the Griswold family!",
+        title2: "Spend some time with the Griswold family!",
         url: "https://www.imdb.com/title/tt0097958/"
     },
     {
@@ -120,7 +120,7 @@
     {
         title: "The Santa Clause (1994),",
         title1: "IMDB rating: 6.6,",
-        title2: "Comedy. Underrated Christmas film!",
+        title2: "Underrated Christmas film!",
         url: "https://www.imdb.com/title/tt0111070/"
     },
     {
@@ -166,13 +166,13 @@
     {
         title: "Klaus (2019),",
         title1: "IMDB rating: 8.2,",
-        title2: "This film is fantastic! Best animated Christmas film! Close to making it on the 'Untouchables' list.",
+        title2: "This film is fantastic! Best animated Christmas film!",
         url: "https://www.imdb.com/title/tt4729430/"
     },
     {
         title: "Arthur Christmas (2011),",
         title1: "IMDB rating: 7.1,",
-        title2: "Great film, except James McAvoy's really annoying voice!",
+        title2: "Great film, except for James McAvoy's really annoying voice!",
         url: "https://www.imdb.com/title/tt1430607/"
     },
     {
@@ -198,31 +198,31 @@
     {
         title: "Love Actually (2003),",
         title1: "IMDB rating: 7.6,",
-        title2: "Romance. Hugh Grant for Prime Minister!",
+        title2: "Hugh Grant for Prime Minister!",
         url: "https://www.imdb.com/title/tt0314331/"
     },
     {
         title: "The Holiday (2006),",
         title1: "IMDB rating: 7.0,",
-        title2: "Romance. Jack Black trying to pull Kate Winslet!",
+        title2: "Jack Black trying to pull Kate Winslet!",
         url: "https://www.imdb.com/title/tt0457939/"
     },
     {
         title: "While You Were Sleeping (1995),",
         title1: "IMDB rating: 6.8,",
-        title2: "Romance. Sandra Bullock trying to pull a man in a coma. Come on Sandy, you're better than that!",
+        title2: "Sandra Bullock trying to pull a man in a coma. Come on Sandy, you're better than that!",
         url: "https://www.imdb.com/title/tt0114924/"
     },
     {
         title: "Serendipity (2001),",
         title1: "IMDB rating: 6.8,",
-        title2: "Romance. A harmless bit of nonsense.",
+        title2: "A harmless bit of nonsense.",
         url: "https://www.imdb.com/title/tt0240890/"
     },
     {
         title: "The Family Stone (2005),",
         title1: "IMDB rating: 6.3,",
-        title2: "Romance. A family of unlikeable people meet for Christmas.",
+        title2: "A family of unlikeable people meet for Christmas.",
         url: "https://www.imdb.com/title/tt0356680/"
     },
 
@@ -230,7 +230,7 @@
     {
         title: "Nativity! (2009),",
         title1: "IMDB rating: 6.5",
-        title2: "A Coventry primary school takes on Hollywood via the medium of a chaotic school nativity. Peak British Christmas!",
+        title2: "A primary school takes on Hollywood via the medium of a chaotic school nativity. Peak British Christmas!",
         url: "https://www.imdb.com/title/tt1242447/"
     },
     {
@@ -268,7 +268,7 @@
     {
         title: "Rare Exports: A Christmas Tale (2010),",
         title1: "IMDB rating: 6.6,",
-        title2: "A Finnish Christmas Horror where archaeologists dig up an evil Santa!",
+        title2: "A Christmas Horror where archaeologists dig up an evil Santa! (Finnish)",
         url: "https://www.imdb.com/title/tt1401143/"
     },
     {
@@ -280,7 +280,7 @@
     {
         title: "8 Women (2002),",
         title1: "IMDB rating: 7.0,",
-        title2: "Agatha Christie style Christmas murder mystery! (French)",
+        title2: "Agatha Christie-style Christmas murder mystery! (French)",
         url: "https://www.imdb.com/title/tt0283832/"
     },
     {
@@ -312,7 +312,7 @@
     {
         title: "Krampus (2015),",
         title1: "IMDB rating: 6.2,",
-        title2: "A decent horror. Boy summons a festive demon intent on punishing non-believers!",
+        title2: "A decent horror. A boy summons a festive demon intent on punishing non-believers!",
         url: "https://www.imdb.com/title/tt3850590/"
     },
     {
@@ -368,22 +368,22 @@
         url: "https://www.imdb.com/title/tt0083284/"
     },
     {
-        title: "Harry Potter and the Philosopher's Stone (2001),",
-        title1: "IMDB rating: 7.7",
-        title2: "Two and a half hours of watching a useless wizard boy in a school with no safeguarding!",
-        url: "https://www.imdb.com/title/tt0241527/"
-    },
-    {
-        title: "The Lord of the Rings: The Fellowship of the Ring (2001),",
+         title: "The Lord of the Rings: The Fellowship of the Ring (2001),",
         title1: "IMDB rating: 8.9",
         title2: "A group of blokes walk towards a volcano for three hours. Perfect Boxing Day viewing!",
         url: "https://www.imdb.com/title/tt0120737/"
     },
     {
-        title: "Indiana Jones and the Last Crusade (1989),",
+         title: "Indiana Jones and the Last Crusade (1989),",
         title1: "IMDB rating: 8.2",
         title2: "Absolutely no Christmas whatsoever. You have chosen... wisely.",
         url: "https://www.imdb.com/title/tt0097576/"
+    },
+    {
+      title: "Harry Potter and the Philosopher's Stone (2001),",
+        title1: "IMDB rating: 7.7",
+        title2: "Two and a half hours of watching a useless wizard boy in a school with no safeguarding!",
+        url: "https://www.imdb.com/title/tt0241527/"
     }
 
 ];
