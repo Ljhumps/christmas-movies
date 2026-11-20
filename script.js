@@ -358,7 +358,7 @@
     {
         title: "The Great Escape (1963),",
         title1: "IMDB rating: 8.2",
-        title2: "Nothing says Christmas like Steve McQueen trying to jump a barbed-wire fence on a motorbike. Apparently.",
+        title2: "Nothing says Christmas like Steve McQueen trying to jump a barbed-wire fence on a motorbike.",
         url: "https://www.imdb.com/title/tt0057115/"
     },
     {
